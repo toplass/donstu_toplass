@@ -76,14 +76,6 @@
       </ol>
     </section>
 
-    <section id="page4" class="card">
-      <h2>Фотографии и материалы</h2>
-      <p>Ниже — официальные фотографии и изображения, связанные с профессиональной деятельностью Эндрю Ын.</p>
-      <div class="photos">
-        <img src="https://www.andrewng.org/static/c5eb39b8da664718384eefcbc915f5cd/5ee5f/andrew-ng-homepage.jpg" alt="Andrew Ng — portrait" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg/800px-Andrew_Ng_at_TechCrunch_Disrupt_SF_2017.jpg" alt="Andrew Ng at TechCrunch Disrupt 2017" />
-      </div>
-    </section>
 
   </div>
 
